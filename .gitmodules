@@ -1,0 +1,3 @@
+[submodule "rl_edese"]
+	path = rl_edese
+	url = git@github.com:yjm9110/rl_edese.git
